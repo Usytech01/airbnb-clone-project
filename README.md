@@ -51,7 +51,7 @@ By completing this project, i will:
 - Define **team structure** and responsibilities  
 - Document each role’s contribution to the project  
 
-### 4. UI/UXComponent Patterns
+### 4. UI Component Patterns
 - Plan **reusable UI components**  
 - Document **component architecture**  
 
