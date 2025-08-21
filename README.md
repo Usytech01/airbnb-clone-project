@@ -47,7 +47,7 @@ By completing this project, i will:
 - Analyze Figma design specifications  
 - Identify **color schemes** and **typography**  
 
-### 3. Roles and Responsibilities
+### 3. Project Roles and Responsibilities
 - Define **team structure** and responsibilities  
 - Document each role’s contribution to the project  
 
